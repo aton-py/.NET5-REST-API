@@ -3,7 +3,7 @@ REST API with .NET 5 and C#
 
 ## This project covers:
 
-### Entity, Repository, Controller GET
+### Entity, Repository, Controller GET [ ]
 
 - Adding an entity
 - Adding an in-memory repository
